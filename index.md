@@ -63,29 +63,50 @@ Verantwortlichen oben.
 
 Last updated: 4 November 2026
 
-**Controller:** Florian Schäffler, sfeo@schaeffler-online.com
+## Who is responsible?
 
-**What SFEO is:** a private chat app for one family. It is not public: only family members invited by the
-controller can use it. The app connects only to the family's chat server and the server provider's call
+Florian Schäffler, sfeo@schaeffler-online.com
+
+## What is SFEO?
+
+SFEO is a private chat app for a single family. It is not public: only family members whom the controller
+has invited can use it. The app connects only to the family's chat server and to the server provider's call
 relay; every other connection is blocked in the app.
 
-**Data processed:** account name, password and profile picture on the family's chat server. Messages,
-photos, voice messages, locations and calls are end-to-end encrypted; the server cannot read them, but it
-sees who communicates with whom and when, and holds encrypted messages and files until they are delivered.
-The server is run by Snikket (hosted in Germany); calls pass encrypted through its relay servers.
+## Which data is processed?
 
-**Phone permissions:** camera and microphone only for calls, photos and voice messages; location only when
-someone actively shares it in a chat (no background location); notifications for messages and calls; photos
-and media only for files someone chooses to send; contacts optional, kept on the phone and never uploaded.
+- **Account:** user name, password and profile picture on the family's chat server.
+- **Messages, photos, voice messages, locations and calls:** end-to-end encrypted. The server cannot read
+  their content. It sees who communicates with whom and when, and keeps messages and files encrypted until
+  they are delivered.
+- **Contact list within the family** on the chat server.
 
-**What SFEO does not do:** no ads, no advertising ID, no tracking, no analytics, no selling or sharing of
-data. The app is distributed through Google Play, where Google's privacy policy applies.
+The chat server is run by Snikket (hosted in Germany). Calls pass encrypted through its relay servers.
 
-**Children:** children of the family use the app under parental supervision (Google Family Link). Only the
+## Permissions on the phone
+
+- **Camera and microphone:** only for video and voice calls, photos and voice messages.
+- **Location:** only when someone actively shares their location in a chat; no background location.
+- **Notifications:** for new messages and incoming calls.
+- **Photos and media:** only for files someone wants to send in a chat.
+- **Contacts:** optional; if allowed, they stay on the phone and are not uploaded.
+
+## What SFEO does not do
+
+No ads, no advertising ID, no tracking, no analytics tools, no selling or sharing of data. The app is
+distributed through Google Play; Google's privacy policy applies to that.
+
+## Children
+
+Children of the family also use the app, under parental supervision (Google Family Link). Only the
 controller creates accounts; strangers cannot reach children through SFEO.
 
-**Retention and deletion:** data is kept while the account exists; on request the controller deletes an
-account and its data on the server.
+## Retention and deletion
 
-**Your rights:** access, rectification, erasure, restriction, portability, objection, and complaint to a
-data protection authority. Contact the controller above.
+Data is kept as long as the account exists. On request, the controller deletes an account with all its data
+on the server.
+
+## Your rights
+
+You have the right to access, rectification, erasure, restriction, data portability and objection, and the
+right to lodge a complaint with a data protection authority. Contact the controller above.
