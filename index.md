@@ -2,6 +2,8 @@
 title: SFEO – Datenschutzerklärung / Privacy Policy
 ---
 
+[Deutsch](#sfeo--datenschutzerklärung) · [English](#sfeo--privacy-policy)
+
 # SFEO – Datenschutzerklärung
 
 Stand: 4. November 2026
